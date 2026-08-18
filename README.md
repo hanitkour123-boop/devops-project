@@ -32,7 +32,7 @@ The project implements source-code management, automated builds, containerizatio
 
 ### 1. Git Workflow
 
-The workflow was designed around development changes being committed to the repository, with releases following the specified release schedule.
+The workflow was designed around development changes being committed to the repository, with monthly release schedule on the 25th.
 
 ### 2. AWS CodeBuild
 
