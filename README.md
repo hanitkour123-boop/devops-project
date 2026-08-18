@@ -32,9 +32,7 @@ The project implements source-code management, automated builds, containerizatio
 
 ### 1. Git Workflow
 
-Git and GitHub were used for source-code management and version control.
-
-The workflow was designed around development changes being committed to the repository, with releases following the specified release schedule.
+Git and GitHub were used for source-code management and version control. The project included a defined release schedule as part of the requirements.
 
 ### 2. AWS CodeBuild
 
