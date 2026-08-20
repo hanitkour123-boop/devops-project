@@ -24,6 +24,10 @@ A Kubernetes Service was configured to expose the application using a NodePort s
 
 ## Running Application
 
-The Kubernetes resources were applied and the application was running in the cluster.
+The Kubernetes Deployment and Service were successfully applied to the cluster.
+
+The `website-app` deployment was configured with **2 replicas**, and both pods were running successfully.
+
+A **NodePort Service** was configured to expose the application on port **30008**.
 
 ![Kubernetes Running](./kubernetes_running.jpg)
