@@ -11,10 +11,10 @@ The Jenkins pipeline was executed successfully, and the console output confirms 
 ### Screenshots
 
 #### Jenkinsfile Created
-![Jenkinsfile Created](screenshots/jenkinsfile-creation.jpg)
+![jenkinsfile creation](screenshots/jenkinsfile-creation.jpg)
 
 #### Jenkinsfile Content
-![Jenkinsfile Content](screenshots/jenkinsfile-content.jpg)
+![jenkinsfile content](screenshots/jenkinsfile-content.jpg)
 
 #### Successful Jenkins Build
 ![Successful Jenkins Build](screenshots/jenkins_build_success.jpg)
