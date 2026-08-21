@@ -1,20 +1,21 @@
-## Jenkins CI/CD Pipeline
+# Jenkins CI/CD Pipeline
 
-Implemented a Jenkins CI/CD pipeline to automate the build and execution process of the project.
+Jenkins was used to automate the CI/CD workflow for the containerized application.
 
-### Jenkinsfile
-The pipeline configuration was created using a Jenkinsfile and includes the required pipeline stages.
+## Jenkinsfile Creation
 
-### Build Execution
-The Jenkins pipeline was executed successfully, and the console output confirms a successful build.
+A Jenkinsfile was created to define the pipeline stages and automate the required workflow.
 
-### Screenshots
+![Jenkinsfile Creation](./jenkinsfile_creation.jpg)
 
-#### Jenkinsfile Created
-![jenkinsfile_creation](screenshots/jenkinsfile-creation.jpg)
+## Jenkinsfile Configuration
 
-#### Jenkinsfile Content
-![jenkinsfile_content](screenshots/jenkinsfile-content.jpg)
+The Jenkinsfile contained the pipeline configuration used for the DevOps workflow.
 
-#### Successful Jenkins Build
-![jenkins_build_success](screenshots/jenkins_build_success.jpg)
+![Jenkinsfile Content](./jenkinsfile_content.jpg)
+
+## Successful Pipeline Execution
+
+The Jenkins pipeline was executed successfully, and the build console output confirmed successful execution.
+
+![Jenkins Build Success](./jenkins_build_success.jpg)
