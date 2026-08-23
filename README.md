@@ -63,9 +63,10 @@ The pipeline coordinates the different stages of the DevOps lifecycle.
 
 ### 6. Ansible Configuration Management
 
-Ansible was used for configuration management and automation of server setup.
+### Ansible
 
-Playbooks were used to automate the installation and configuration of required software.
+Ansible was included as part of the project requirements for configuration management. 
+The project explored the role of configuration automation within the DevOps lifecycle.
 
 ### 7. Terraform Infrastructure
 
@@ -95,7 +96,7 @@ This allowed infrastructure resources to be defined and managed through Terrafor
 - Deployed containerized applications using Kubernetes.
 - Created Jenkins CI/CD pipelines.
 - Practiced infrastructure provisioning using Terraform.
-- Practiced configuration management using Ansible.
+- Learned the role of configuration management and automation in a DevOps workflow.
 - Gained hands-on experience with an end-to-end DevOps lifecycle.
 
 ## Project Screenshots
